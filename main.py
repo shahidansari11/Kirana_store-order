@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.header("KGN KIRANA STORE : ")
-
+st.subheader("Irfan Ansari : ")
 st.subheader("Ph No : 9145206349: ")
 st.markdown("Home delivery free:")
 
@@ -23,4 +23,5 @@ if button:
     ,Address : {address}
     ,Ph No : {classdata}""")
 st.markdown("Thank you for visit us : ")
+
 
