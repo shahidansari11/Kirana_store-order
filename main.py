@@ -5,16 +5,6 @@ st.header("KGN KIRANA STORE : ")
 st.subheader("Ph No : 9145206349: ")
 st.markdown("Home delivery free:")
 
-
-
-
-
-
-
-
-
-
-
 import streamlit as st
 
 name=st.text_input("Enter your name : ") 
@@ -33,3 +23,4 @@ if button:
     ,Address : {address}
     ,Ph No : {classdata}""")
 st.markdown("Thank you for visit us : ")
+
